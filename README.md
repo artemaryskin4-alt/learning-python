@@ -6,6 +6,6 @@
 - `even_odd.py` — проверка числа на чётность
 - `factorial.py` — вычисление факториала
 - `sum_digits.py` — вычисление суммы цифр числа
-- `multiplication table.py' - создание таблицы умножения
+- `multiplication table.py` - создание таблицы умножения
 
 
